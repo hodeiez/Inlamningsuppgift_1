@@ -39,6 +39,6 @@ public class Animal {
      * @return string with animal name,food quantity and type of food.
      */
     public String answerMessage() {
-        return String.format("%s ska få %.2f %s. %s", this.name, this.foodQuantity,FoodUnits.GR,this.food);
+        return String.format("%s ska få %.2f %s. %s", this.name, this.foodQuantity,FoodUnits.GR.unit,this.food);
     }
 }
