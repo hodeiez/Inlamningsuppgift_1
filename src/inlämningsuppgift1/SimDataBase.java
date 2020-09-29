@@ -21,7 +21,7 @@ public class SimDataBase {
         Animal ove = new Cat("Ove", 3);
         Animal hypno = new Snake("Hypno", 1);
         Animal sixteen = new Dog("Sixteen", 5);
-        Animal dogge = new Dog("dogge", 10);
+        Animal dogge = new Dog("Dogge", 10);
 
         List<Animal> animalList= new ArrayList<Animal>();
         animalList.add(venus);
