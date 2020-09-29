@@ -26,7 +26,7 @@ public class Gui {
             System.exit(0);
 
         if (input.isEmpty()) {
-            JOptionPane.showMessageDialog(null, "Skriva någonting, snälla");
+            JOptionPane.showMessageDialog(null, "Skriv någonting, snälla");
             System.exit(0);
         }
     }
