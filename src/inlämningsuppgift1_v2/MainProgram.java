@@ -9,11 +9,11 @@ package inlämningsuppgift1_v2;
  *
  *UPPGIFT för Objektorienterad programmering och Java kurs
  *
- * A program that search if an animal is in a pet hotel (searching for its name)
+ * A program that search if an animal is in the pet hotel (searching for its name)
  * and if it is established provides the corresponding diet.
  *
  *Ett program som söker om ett djur befinner sig i ett djurhotell
- *(söker efter dess namn) och om det är etablerat ger motsvarande kost.
+ *(söker efter dess namn) och om det är etablerat ger mat portion som motsvarar det.
  */
 public class MainProgram {
 
